@@ -1,0 +1,6 @@
+package Macro;
+
+public enum SoundType
+{
+	NONE,CLIMBING,DASHING,HITTING,JUMPING,LANDING,RUNNING,DIE
+}
